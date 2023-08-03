@@ -5,7 +5,11 @@
     "options": [
       {
         "key": "appName",
-        "value": "metube"
+        "value": "Metube"
+      },
+      {
+        "key": "iconPath",
+        "value": "/storage/emulated/0/Download/youtbe icon do delete"
       }
     ]
   }
