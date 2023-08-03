@@ -1,4 +1,3 @@
-[Youtube ]
+[Metube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "always-autorepeat comments custom-branding disable-fullscreen-panels disable-player-popup-panels hide-shorts-components hide-album-cards hide-autoplay-button hide-captions-button hide-cast-button hide-email-address hide-endscreen-cards hide-floating-microphone-button hide-info-cards hide-layout-components hide-player-buttons hide-player-overlay hide-timestamp hide-watch-in-vr theme wide-searchbar"
-
+excluded-patches = "disable-fullscreen-panels disable-player-popup-panels hide-shorts-components hide-album-cards hide-captions-button hide-cast-button hide-info-cards hide-timestamp tablet-mini-player"
